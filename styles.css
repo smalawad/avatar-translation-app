@@ -11,6 +11,7 @@ header {
     background-color: var(--primary);
     font-family: 'Source Sans Pro', sans-serif;
 }
+
 .nav {
     background-color: var(--primary);
     text-align: center;
@@ -46,7 +47,7 @@ textarea {
     border: 2px solid var(--primary);
     max-width: 500px;
     margin: auto;
-    
+
 }
 
 button {
@@ -72,11 +73,10 @@ p.blocktext {
     margin-right: auto;
     width: 40rem;
     font-family: 'Source Sans Pro', sans-serif;
-} 
+}
 
 body {
     margin: 0;
     font-family: cursive;
     color: var(--black);
 }
-

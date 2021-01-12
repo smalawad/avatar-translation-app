@@ -9,7 +9,7 @@ function getTranslationURL(text) {
     return serverURL + "?" + "text=" + text
 }
 
-function errorHandler (error) {
+function errorHandler(error) {
     console.log("error occure", error);
     alert("something wrong with sever! try agin after some time");
 }
